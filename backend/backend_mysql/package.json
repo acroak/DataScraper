@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "@types/chai": "^4.3.10",
+    "@types/cors": "^2.8.14",
+    "@types/express": "^4.17.18",
+    "@types/mocha": "^10.0.4",
+    "@types/mysql": "^2.15.22",
+    "@types/supertest": "^2.0.16",
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3",
+    "typescript": "^5.2.2"
+  },
+  "name": "employees_backend_mysql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1"
+  }
+}
